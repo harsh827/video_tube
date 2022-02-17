@@ -28,7 +28,8 @@ The Video Sharing Website is a PHP/MySQLi project that lets the website users up
 
 
 
-- Search box: The input box located at the top navigation bar of the page where the users or visitors enter keywords when looking or searching for a specific clip or video.
+- Search box: The input box located at the top navigation bar of the page where the users or visitors enter keywords when looking or searching for a specific clip or video.![](https://user-images.githubusercontent.com/73309402/154566475-4297513d-b167-4f05-8b1d-c2e7b3fe96c9.png
+)
 
  
 
@@ -61,6 +62,7 @@ Password: jsmith123
 
 ### Demo Video
 
+(Unmute the video to hear video sound)
 https://user-images.githubusercontent.com/73309402/154561339-b54acaea-5170-437c-970f-4bb633d5d7ad.mp4
 
 
