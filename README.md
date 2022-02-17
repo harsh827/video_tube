@@ -6,21 +6,30 @@ The Video Sharing Website is a PHP/MySQLi project that lets the website users up
 
 ## Features
 - Home Page: The page where the system users and website visitors will be redirected by default when browsing the video-sharing website. This page display all the uploaded clip or videos on the website.
+![](https://user-images.githubusercontent.com/73309402/154564875-3358ea12-8811-4016-8c2b-bfbaf84f3729.png)
+ 
 
     
-- Login Modal: The popup modal where the system users submit their system credentials to access the data and functionalities of the Video Sharing Website.
+- Login Modal: The popup modal where the system users submit their system credentials to access the data and functionalities of the Video Sharing Website.![](https://user-images.githubusercontent.com/73309402/154565929-339d7ed5-6a4a-43ed-9185-9f5a5c9f190a.png)
 
 
-- Signup Page: The page where the new users create their account.
 
 
-- My Uploads Page : The page where uploaded clips and videos of the user listed and managed.
+
+- Signup Page: The page where the new users create their account.![](https://user-images.githubusercontent.com/73309402/154565088-3e42cc65-a14a-48ce-9313-3e826c699f44.png)
 
 
-- Upload Modal: The popup modal where the users upload their new clip and also when updating their uploaded or posted videos.
+
+- My Uploads Page : The page where uploaded clips and videos of the user listed and managed.![](https://user-images.githubusercontent.com/73309402/154565211-d29352db-3cb5-443a-967f-549c4c2106d6.png)
+
+
+
+- Upload Modal: The popup modal where the users upload their new clip and also when updating their uploaded or posted videos.![](https://user-images.githubusercontent.com/73309402/154565571-221e5360-766c-403e-b898-d7ea3ac86f42.png)
+
 
 
 - Search box: The input box located at the top navigation bar of the page where the users or visitors enter keywords when looking or searching for a specific clip or video.
+
  
 
 
@@ -47,8 +56,6 @@ Email: jsmith@sample.com
 Password: jsmith123
 
 ## Website Demo
-
-### Screenshots
 
 
 
