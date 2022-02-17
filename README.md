@@ -36,9 +36,9 @@ The Video Sharing Website is a PHP/MySQLi project that lets the website users up
 
 
 ## Tech Stack
-- JavaScript(frontend)
-- PHP (frontend and backend)
-- PhpMyAdmin (web-based administrating tool for MYSQL)
+- JavaScript
+- PHP 
+- PhpMyAdmin 
 
 ## Installation Instructions
 
@@ -63,6 +63,7 @@ Password: jsmith123
 ### Demo Video
 
 (Unmute the video to hear video sound)
+
 https://user-images.githubusercontent.com/73309402/154561339-b54acaea-5170-437c-970f-4bb633d5d7ad.mp4
 
 
