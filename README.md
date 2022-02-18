@@ -1,16 +1,15 @@
 # Video Tube
 
-The Video Sharing Website is a PHP/MySQLi project that lets the website users uploads some videos to share with the public online. This is project is inspired by the well-known and one of the most popular video-sharing sites which is YouTube (YT).
+The Video Sharing Website is a PHP/MySQLi project that lets the website users uploads some videos to share with the public online. This project is inspired by one of the most popular video-sharing sites which is YouTube.
 
- Using this system, to upload and share a clip or video/s, the user must create an account. When uploading a video or clip on the website, the user should navigate their page to the "My Uploads" page where all the list of their uploaded videos is shown. Then, the user will simply click the "Upload" button at the upper right of the container of the page, then the upload form will popup, this feature and some of the User Interface is still inspired by YouTube and easy to use. When the user chooses their video to upload, the selected video or clip has a preview area which is located at the right side of the upload modal and take note that the selected video is not automatically uploaded to the site yet until the user will submit the form by clicking ht "Upload" button of the modal. The user can also add a thumbnail or poster image for the clip to display. This project also counts the views in each user clip when viewed by other users or visitors to the website.
-
+ 
 ## Features
 - Home Page: The page where the system users and website visitors will be redirected by default when browsing the video-sharing website. This page display all the uploaded clip or videos on the website.
 ![](https://user-images.githubusercontent.com/73309402/154564875-3358ea12-8811-4016-8c2b-bfbaf84f3729.png)
  
 
     
-- Login Modal: The popup modal where the system users submit their system credentials to access the data and functionalities of the Video Sharing Website.![](https://user-images.githubusercontent.com/73309402/154565929-339d7ed5-6a4a-43ed-9185-9f5a5c9f190a.png)
+- Login Modal: The popup modal where the system users submit their system credentials to access the data and functionalities of Video Tube.![](https://user-images.githubusercontent.com/73309402/154565929-339d7ed5-6a4a-43ed-9185-9f5a5c9f190a.png)
 
 
 
