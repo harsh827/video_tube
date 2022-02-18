@@ -10,6 +10,7 @@ The Video Sharing Website is a PHP/MySQLi project that lets the website users up
 
     
 - Login Modal: The popup modal where the system users submit their system credentials to access the data and functionalities of Video Tube.
+
 ![](https://user-images.githubusercontent.com/73309402/154565929-339d7ed5-6a4a-43ed-9185-9f5a5c9f190a.png)
 
 
