@@ -63,7 +63,7 @@ Password: jsmith123
 
 ### Demo Video
 
-(Unmute the video to hear video sound)
+[Unmute(demo video) to hear the sound of uploaded videos in Video Tube]
 
 https://user-images.githubusercontent.com/73309402/154561339-b54acaea-5170-437c-970f-4bb633d5d7ad.mp4
 
