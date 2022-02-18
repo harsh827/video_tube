@@ -47,6 +47,9 @@ The Video Sharing Website is a PHP/MySQLi project that lets the website users up
 
 - Upload Modal: The popup modal where the users upload their new clip and also when updating their uploaded or posted videos.![](https://user-images.githubusercontent.com/73309402/154565571-221e5360-766c-403e-b898-d7ea3ac86f42.png)
 
+- Video viewing page
+![](https://user-images.githubusercontent.com/73309402/154732602-12c31608-6e44-4d5f-a069-d2bc379d6f0c.png)
+
 
 
 - Search box: The input box located at the top navigation bar of the page where the users or visitors enter keywords when looking or searching for a specific clip or video.![](https://user-images.githubusercontent.com/73309402/154566475-4297513d-b167-4f05-8b1d-c2e7b3fe96c9.png
@@ -59,7 +62,7 @@ The Video Sharing Website is a PHP/MySQLi project that lets the website users up
 ## Tech Stack
 - JavaScript
 - PHP 
-- PhpMyAdmin 
+- PhpMyAdmin(web-based administrating tool for MYSQL) 
 
 ## Installation Instructions
 
