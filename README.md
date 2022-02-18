@@ -1,9 +1,29 @@
-# Video Tube
+# Video-Tube
+
+## Polynomial.ai internship task 
 
 The Video Sharing Website is a PHP/MySQLi project that lets the website users uploads some videos to share with the public online. This project is inspired by one of the most popular video-sharing sites which is YouTube.
 
  
 ## Features
+
+1. Users can input their videos in my uploads page
+
+2. Users can delete their uploaded videos using My Uploads Page
+
+3. All users can view, edit and delete their videos from their respective  My Uploads Page
+
+4. This project counts the views in each user clip when viewed by other users or visitors to the website.
+
+5. If visitor's uses the link of Video-Tube home page, they can see all videos uploaded by different uploader's 
+<pre>
+
+
+
+</pre>
+
+
+
 - Home Page: The page where the system users and website visitors will be redirected by default when browsing the video-sharing website. This page display all the uploaded clip or videos on the website.
 ![](https://user-images.githubusercontent.com/73309402/154564875-3358ea12-8811-4016-8c2b-bfbaf84f3729.png)
  
