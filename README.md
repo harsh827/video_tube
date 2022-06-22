@@ -1,6 +1,6 @@
 # Video-Tube
 
-## Polynomial.ai internship task 
+ 
 
 The Video Sharing Website is a PHP/MySQLi project that lets the website users uploads some videos to share with the public online. This project is inspired by one of the most popular video-sharing sites which is YouTube.
 
